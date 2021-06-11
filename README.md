@@ -2,4 +2,4 @@
 
 A calculator that can perform basic arithmetic operations. Created to learn the basics of JavaScript, HTML, and CSS.
 
-Link: https://kpham841.github.io/Calculator-JS/
+Demo: https://kpham841.github.io/Calculator-JS/
